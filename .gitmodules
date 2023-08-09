@@ -1,0 +1,15 @@
+[submodule "https://github.com/kasperhbo/Rayon.git"]
+	path = https://github.com/kasperhbo/Rayon.git
+	url = Rayon
+[submodule "Rayon"]
+	path = Rayon
+	url = https://github.com/kasperhbo/Rayon.git
+[submodule "CustomerProject"]
+	path = CustomerProject
+	url = https://github.com/kasperhbo/CustomerProject.git
+[submodule "RecipeCalculations"]
+	path = RecipeCalculations
+	url = https://github.com/kasperhbo/RecipeCalculations.git
+[submodule "BlanketSalesOrder"]
+	path = BlanketSalesOrder
+	url = https://github.com/kasperhbo/BlanketSalesOrder.git
