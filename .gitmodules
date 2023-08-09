@@ -13,3 +13,6 @@
 [submodule "BlanketSalesOrder"]
 	path = BlanketSalesOrder
 	url = https://github.com/kasperhbo/BlanketSalesOrder.git
+[submodule "SalesPriceExtension"]
+	path = SalesPriceExtension
+	url = https://github.com/kasperhbo/SalesPriceExtension.git
